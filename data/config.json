@@ -3,7 +3,7 @@
   "ai": {
     "provider": "openai",
     "model": "gpt-5.2",
-    "base_url": "${BASE_URL}",
+    "base_url": "${HORIZON_AI_BASE_URL}",
     "api_key_env": "OPENAI_API_KEY",
     "temperature": 0.3,
     "max_tokens": 8192,
