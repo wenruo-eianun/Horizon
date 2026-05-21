@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "ai": {
-    "provider": "openai"",
+    "provider": "openai",
     "model": "gpt-5.2",
     "base_url": "${BASE_URL}",
     "api_key_env": "OPENAI_API_KEY",
